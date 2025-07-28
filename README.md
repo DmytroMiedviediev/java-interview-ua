@@ -4,7 +4,7 @@
 
 - [ООП (класи, об'єкти, наслідування, поліморфізм, інкапсуляція)](01-java-basics/oop.md/#зміст)
 - [Java Core (типи даних, оператори, цикли, винятки)](01-java-basics/java-core-types-operators-loops-exceptions.md/#зміст)
-- [Java 8–21 (ла́мбди, Stream API, Optional, записи, switch expressions тощо)](01-java-basics/java8-21-lambdas-streams-optional-records-switch.md/#зміст)
+- [Java 8–21 (лямбди, Stream API, Optional, записи, switch expressions тощо)](01-java-basics/java8-21-lambdas-streams-optional-records-switch.md/#зміст)
 - [Java Collections Framework](01-java-basics/java-collections-framework.md/#зміст)
 - [Generics](01-java-basics/generics.md/#зміст)
 - [Enum'и, аннотації](01-java-basics/enums-annotations.md/#зміст)
